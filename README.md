@@ -11,5 +11,3 @@ Contenido de la Competencia de JavaScript SENA para el Programa de ADSO
     3. [Acta de concertación](https://github.com/aperezn298/JavascriptSENA/blob/main/01_InfoCompetencia_3065909/ActaConcertacion3065909.pdf) 
     4. [Guia de Aprendizaje](https://github.com/aperezn298/JavascriptSENA/blob/main/01_InfoCompetencia_3065909/GuiaAprendizajeJavaScript3065909.pdf)
 2. Actividades Iniciales --> [Reflexión Inicial](https://github.com/aperezn298/JavascriptSENA/blob/main/02_ActividadesIniciales/01ReflexionInicialTiendaOnline.pdf)
-
- 

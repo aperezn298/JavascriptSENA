@@ -1,0 +1,17 @@
+// FUnciones Tipo Flecha
+
+// // Sintaxis Larga
+// const nombreFuncion3 = () => {
+//    return resultado;  
+// }
+
+// // Sintaxis Corta
+// const nombreFuncion1 = () => {};
+// const nombreFuncion = (parametro1, parametro2) => parametro1 + parametro2;
+
+// // Flecha con parametros y con retorno
+// const SumarNumeros = (uno, dos) => uno + dos;
+// console.log(SumarNumeros(10, 20));
+
+// const SumarNumeros = (uno, dos) => {console.log(uno + dos)};
+// SumarNumeros(10, 20);

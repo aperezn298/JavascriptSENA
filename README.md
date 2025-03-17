@@ -20,3 +20,4 @@ Contenido de la Competencia de JavaScript SENA para el Programa de ADSO
     1. [Estructuras Secuenciales](https://github.com/aperezn298/JavascriptSENA/blob/main/03_ProgramacionEstructurada/01ConceptosBasicosJS.pdf)
     2. [Estructuras Control](https://github.com/aperezn298/JavascriptSENA/blob/main/03_ProgramacionEstructurada/02EstructurasControl.pdf)
     3. [Funciones](https://github.com/aperezn298/JavascriptSENA/blob/main/03_ProgramacionEstructurada/03Funciones.pdf)
+    4. [Colecciones Datos](https://github.com/aperezn298/JavascriptSENA/blob/main/03_ProgramacionEstructurada/04ColeccionesDatos.pdf)

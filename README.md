@@ -25,4 +25,5 @@ Contenido de la Competencia de JavaScript SENA para el Programa de ADSO
 4. Almacenamiento - Storage
     1. [Localstorage](https://github.com/aperezn298/JavascriptSENA/blob/main/05_Storage/06Storage.pdf)
     2. [Ejemplo Localstorage](https://github.com/aperezn298/JavascriptSENA/blob/main/05_Storage/EjemploLocalStorage.js)
+    2. [Ejercicio Localstorage](https://github.com/aperezn298/JavascriptSENA/blob/main/05_Storage/EjercicioLocalStorage.js)
     3. [Ejemplo Sessionstorage](https://github.com/aperezn298/JavascriptSENA/blob/main/05_Storage/EjemploSessionStorage.js)

@@ -22,3 +22,7 @@ Contenido de la Competencia de JavaScript SENA para el Programa de ADSO
     3. [Funciones](https://github.com/aperezn298/JavascriptSENA/blob/main/03_ProgramacionEstructurada/03Funciones.pdf)
     4. [Colecciones Datos](https://github.com/aperezn298/JavascriptSENA/blob/main/03_ProgramacionEstructurada/04ColeccionesDatos.pdf)
     5. [Metodos de Manipulacion](https://github.com/aperezn298/JavascriptSENA/blob/main/03_ProgramacionEstructurada/05MetodosManipulacion.pdf)
+4. Almacenamiento - Storage
+    1. [Localstorage](https://github.com/aperezn298/JavascriptSENA/blob/main/05_Storage/06Storage.pdf)
+    2. [Ejemplo Localstorage](https://github.com/aperezn298/JavascriptSENA/blob/main/05_Storage/EjemploLocalStorage.js)
+    3. [Ejemplo Sessionstorage](https://github.com/aperezn298/JavascriptSENA/blob/main/05_Storage/EjemploSessionStorage.js)

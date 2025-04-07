@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejemplo DOM</title>
+    <link rel="stylesheet" href="css/manejoDOM.css">
+    
+</head>
+
+<body>
+    <h1 id="titulo">La Natación</h1>
+    <h2 id="subtitulo"></h2>
+    <button onclick="modificarTexto()">Modificar texto</button>
+    <p>La natación es un deporte acuático que consiste en desplazarse en el agua utilizando el cuerpo humano. Es una
+        actividad que se puede practicar de forma recreativa o competitiva, y es conocida por sus beneficios para la
+        salud y el bienestar.</p>
+    <p>La natación se puede realizar en diferentes estilos, como el crol, la braza, la espalda y el mariposa. Cada
+        estilo tiene su propia técnica y requiere habilidades específicas. Además, la natación es un deporte que se
+        puede practicar en diferentes entornos, como piscinas, ríos, lagos y océanos.</p>
+    <img src="multimedia/natacionuno.jpg" alt="Natación" width="500" height="300">
+    <img src="multimedia/nataciondos.jpg" alt="Natación" width="500" height="300" id="imagendos">
+    <button onclick="cambiarAtributos()">Cambiar atributos</button>
+    <h3>Beneficios de la natación</h3>
+    <ul>
+        <li>Mejora la resistencia cardiovascular</li>
+        <li>Fortalece los músculos</li>
+        <li>Ayuda a mantener un peso saludable</li>
+        <li>Reduce el estrés y la ansiedad</li>
+        <li>Mejora la flexibilidad y la coordinación</li>
+        <li>Es una actividad de bajo impacto, ideal para personas de todas las edades</li>
+    </ul>
+    <button onclick="cambiarEstilos()">Cambiar estilos</button>
+    <div id="contenido"></div>
+    <button onclick="crearElemento()">Crear un elemento</button>
+    <button onclick="eliminarElemento()">Eliminar un elemento</button>
+    <h3>Formulario de natación</h3>
+    <form action="google.com" method="get" id="formulario">
+        <input id="numid" type="text" placeholder="Número de identificación" required>
+        <input type="submit" value="Validar" id="validar">
+        <p id="mensaje"></p>
+    </form>
+    <script src="js/manejoDOM.js"></script>
+</body>
+
+</html>

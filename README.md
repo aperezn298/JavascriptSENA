@@ -29,4 +29,4 @@ Contenido de la Competencia de JavaScript SENA para el Programa de ADSO
     3. [Ejemplo Sessionstorage](https://github.com/aperezn298/JavascriptSENA/blob/main/05_Storage/EjemploSessionStorage.js)
 5. Gestión del DOM
     1. [Conceptos del DOM](https://github.com/aperezn298/JavascriptSENA/blob/main/06_DOM/07DOM.pdf)
-    2. [Ejemplo](https://github.com/aperezn298/JavascriptSENA/blob/main/05_DOM/Ejemplo/ejemplosclase.html)
+    2. [Ejemplo](https://github.com/aperezn298/JavascriptSENA/blob/main/06_DOM/Ejemplo/ejemplosclase.html)

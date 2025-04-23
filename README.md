@@ -30,3 +30,5 @@ Contenido de la Competencia de JavaScript SENA para el Programa de ADSO
 5. Gestión del DOM
     1. [Conceptos del DOM](https://github.com/aperezn298/JavascriptSENA/blob/main/06_DOM/07DOM.pdf)
     2. [Ejemplo](https://github.com/aperezn298/JavascriptSENA/blob/main/06_DOM/Ejemplo)
+6. Actividad Refuerzo
+    1. [Actividad Refuerzo](https://github.com/aperezn298/JavascriptSENA/blob/main/07_ActividadRefuerzo/NivelacionDosPE.pdf)
